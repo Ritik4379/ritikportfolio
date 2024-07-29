@@ -2,6 +2,5 @@
 // “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
 
 $w.onReady(function () {
-console.log("hello");
-
+console.log("Ritik")
 });
